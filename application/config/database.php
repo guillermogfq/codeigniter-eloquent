@@ -81,7 +81,7 @@ $db['default'] = array(
 	'username' => 'root123',
 	'password' => 'root123',
 	'database' => 'ubbmovil',
-	'dbdriver' => 'mysqli',
+	'dbdriver' => 'mysql',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
 	'db_debug' => (ENVIRONMENT !== 'production'),
